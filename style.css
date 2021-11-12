@@ -1,6 +1,6 @@
 html {
     font-family: sans-serif;
-    background-image: url('pic1.jpg');
+    background-image: url('./pic1.jpg');
   }
 
   .inbox {
